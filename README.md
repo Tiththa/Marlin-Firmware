@@ -131,6 +131,7 @@ More features have been added by:
   - Alberto Cotronei [@MagoKimbra]
   - Lampmaker,
   - Bradley Feldman,
+  - Pocupine97 @Tiththa,
   - and others...
 
 ## License
